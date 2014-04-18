@@ -1,2 +1,2 @@
-naive_bayse
+naive_bayes
 ===========
